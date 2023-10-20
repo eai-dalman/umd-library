@@ -5,7 +5,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.jsx"),
-      name: "my-library",
+      name: "umd-library",
 
       fileName: "index",
     },
