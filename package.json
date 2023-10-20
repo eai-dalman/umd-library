@@ -1,6 +1,6 @@
 {
-  "name": "@YongJo/my-library",
-  "version": "1.0.0",
+  "name": "@yongjo/my-library",
+  "version": "1.0.1",
   "description": "umd v4",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
